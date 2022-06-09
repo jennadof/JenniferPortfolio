@@ -47,7 +47,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:**Explore Deep Nueral Network with Keras for MNIST Handwritting Classification Prediction of whether a given image is  7 or  3 using Convolutional Neural Networks which may be further implemented as a feature in a bigger project.
 
-**Quantifiable result:** We could train the Convolutional Neural Network to attain a accuracy of [**97%** using **50** epochs](https://github.com/Tech-i-s/techis-ds-wiki/blob/main/DS/Step%203-3%20Deep%20Neural%20Networks/04_Handwriting%20Recognition%20using%20DNN/step5_1_hand_writting_recognition_project.ipynb.)
+**Quantifiable result:** We could train the Convolutional Neural Network to attain a accuracy of **97%** using **50** epochs
 
 - Added multiple convolution and pooling layers
 - Training model on basis of given data
