@@ -47,7 +47,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 [Predicting Whether a person interested to buy Term deposit using Logistic Regression ](https://github.com/jennadof/logisticregressionProjects.git
 )
 
-<img src="images/mnist.jpg?raw=true"/>
+<img src="images/banking.jpeg?raw=true"/>
 
 **Skills used:** Python, Pandas,Sklearn, Matplotlib
 
