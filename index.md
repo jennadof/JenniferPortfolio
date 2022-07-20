@@ -19,7 +19,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 ***
 [Employee Salary compensation using KMeans](https://github.com/jennadof/Unsupervised-Learning.git)
 
-<img src="images/compen.jpeg?raw=true"/>
+<img src="images/employee.jpeg?raw=true"/>
 
 **Skills used:** Python, Pandas,Matplotlib,Clustering, Elbow
 
