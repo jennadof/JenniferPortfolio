@@ -1,4 +1,4 @@
-Website Address: [Live Example](https://tech-i-s.github.io/techis-ds-portfolio/)
+Website Address: [Live Example](https://jennadof.github.io/JenniferPortfolio/)
 
 - Data Science students' Portfolio Template
 
