@@ -44,8 +44,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Predicting Whether a person interested to buy Term deposit using Logistic Regression ](https://github.com/jennadof/logisticregressionProjects.git
-)
+[Predicting Whether a person interested to buy Term deposit using Logistic Regression ](https://github.com/jennadof/logisticregressionProjects.git)
 
 <img src="images/banking.jpeg?raw=true"/>
 
@@ -54,6 +53,6 @@ Here are some of my best Data Science Projects. I have explored various machine-
 **Project Objective:**In this project I worked with real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe to a term deposit.**
 
 
-**Quantifiable result:** We could classify whether a Person Intrested to buy term deposit or not with **98%** accuracy.
+**Quantifiable result:** We could classify whether a Person Intrested to buy term deposit or not with [**98%**](https://github.com/jennadof/logisticregressionProjects.git) accuracy.
 
 - Using Logistic Regression to Predict the behaviour of Clients
