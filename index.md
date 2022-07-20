@@ -30,7 +30,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Predicting orthopedic persOn of Normal/abnormal Using KNN-NB]()
 
-<img src="images/breast-cancer.jpeg?raw=true"/>
+<img src="images/knee-brace-ortho.png?raw=true"/>
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib,KNN
 
