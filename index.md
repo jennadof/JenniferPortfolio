@@ -36,7 +36,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** In This Project We are provided with multiple instances of orthopedic parameters according to that i classified whether the patients are Normal or Abnormal 
 
-**Quantifiable result:** We could Classify the Patients Normal or Abnormal with  [**82%** accuracy using K-means algorithm]().
+**Quantifiable result:** We could Classify the Patients Normal or Abnormal with  [**82%** accuracy using K-means algorithm](https://github.com/jennadof/logisticregressionProjects/blob/main/Knn_Nb_Project.ipynb).
 
 - Used KNN-NB to identify a patient is Normal or Abnormal .
 - Classified condition of Patient as Normal or Abnormal using Multiple instances of orthopedic Parameters. 
