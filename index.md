@@ -28,7 +28,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 ***
 
 
-[Predicting orthopedic persOn of Normal/abnormal Using KNN-NB]()
+[Predicting orthopedic persOn of Normal/abnormal Using KNN-NB](https://github.com/jennadof/logisticregressionProjects/blob/main/Knn_Nb_Project.ipynb)
 
 <img src="images/knee-brace-ortho.png?raw=true"/>
 
