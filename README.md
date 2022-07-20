@@ -3,4 +3,4 @@ Website Address: [Live Example](https://jennadof.github.io/JenniferPortfolio/)
 - Data Science students' Portfolio Template
 
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/89073371/148211635-abdb3cd5-1099-46fc-beb7-d16008cf9704.gif)
+![ezgif com-gif-maker](https://drive.google.com/file/d/1nePwAFE39VFtowHKtOOSfcuQwF3L2xK_/view?usp=sharing)
