@@ -3,52 +3,57 @@
 Here are some of my best Data Science Projects. I have explored various machine-learning algorithms for different datasets. Feel free to contact me to learn more about my experience working with these projects.
 
 ***
-
-[Examining the effect of environmental factors and weather on demand of Bike rentals](https://github.com/jennadof/linearPoject.git)
-
-<img src="images/seoul-bikes.jpeg?raw=true"/>
-
-**Skills used:** Python, Pandas, SKlearn, Matplotlib
-
-**Project Objective:** Predicting Bike rental demand on basis of weather and seasonal factors in advance to take appropiate measures which finally will result in bike utilization.
-
-**Quantifiable result:** We could predict the Bike rental demand resulting in [*70*%** accuracy](https://github.com/suvo-gh/Bike-Rental-Demand/blob/main/Bike_Rental_Demand.ipynb).
-
-- Used Random Forest Regressor to predict the number of bikes rented in the city of Seoul
-- The data had quite a few categorical variables which were encoded for use in the model
-- Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
-- Cross Validation for validating the training data and model fit.
-- Fit a Random Forest Regressor with high prediction accuracy through iteration
-
-***
-
-[Diagnosis of breast cancer using a logistic classifier](https://github.com/jennadof/logisticregressionProjects.git)
-
-<img src="images/breast-cancer.jpeg?raw=true"/>
-
-**Skills used:** Python, Pandas, SKlearn, Matplotlib
-
-**Project Objective:** Identification of the type of Breast Cancer for quicker diagnosis. This assists professionals in the medical field to take appropiate measures to accurately diagnose, treat and save lives. 
-
-**Quantifiable result:** We could Classify the type of tumor resulting in [**82%** accuracy using K-means algorithm](https://github.com/suvo-gh/Orthopedic-Patients-Classification).
-
-- Used logistic regression to identify a tumour as malignant or benign based on various attributes
-- Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
-- Used Logistic regression classifier & optimized the accuracy by using the ROC curve
-- Explored a machine learning approach to medical diagnosis
-
-***
-
-[Identifying given picture is a 7 or a 3](https://github.com/jennadof/Deep-Neural-Network-project.git)
+[Hand-writing recognition using CNN](https://github.com/jennadof/Deep-Neural-Network-project.git)
 
 <img src="images/mnist.jpg?raw=true"/>
 
 **Skills used:** Python, Keras, Tensorflow
 
-**Project Objective:**Explore Deep Nueral Network with Keras for MNIST Handwritting Classification Prediction of whether a given image is  7 or  3 using Convolutional Neural Networks which may be further implemented as a feature in a bigger project.
+**Project Objective:**Mnist is a Dataset with 70,000 of handwritten digits. Here I Have Predicted the mnist digits by using Convolution Neural Network**
 
 **Quantifiable result:** We could train the Convolutional Neural Network to attain a accuracy of **97%** using **50** epochs
 
 - Added multiple convolution and pooling layers
 - Training model on basis of given data
-- Fitting the CNN to see if the provided image is 7 or 3
+
+***
+[Employee Salary compensation using KMeans](https://github.com/jennadof/Unsupervised-Learning.git)
+
+<img src="images/mnist.jpg?raw=true"/>
+
+**Skills used:** Python, Pandas,Matplotlib,Clustering, Elbow
+
+**Project Objective:**The San Franscisco Controller's Office maintains a database of the salary and benefits paid to City employees since fiscal year 2013.This data is summarized and presented on the Employee-Compensation.**
+
+***
+
+
+[Predicting orthopedic persOn of Normal/abnormal Using KNN-NB]()
+
+<img src="images/breast-cancer.jpeg?raw=true"/>
+
+**Skills used:** Python, Pandas, SKlearn, Matplotlib,KNN
+
+**Project Objective:** In This Project We are provided with multiple instances of orthopedic parameters according to that i classified whether the patients are Normal or Abnormal 
+
+**Quantifiable result:** We could Classify the Patients Normal or Abnormal with  [**82%** accuracy using K-means algorithm]().
+
+- Used KNN-NB to identify a patient is Normal or Abnormal .
+- Classified condition of Patient as Normal or Abnormal using Multiple instances of orthopedic Parameters. 
+- Explored a machine learning approach to medical diagnosis
+
+***
+
+[Predicting Whether a person interested to buy Term deposit using Logistic Regression ](https://github.com/jennadof/logisticregressionProjects.git
+)
+
+<img src="images/mnist.jpg?raw=true"/>
+
+**Skills used:** Python, Pandas,Sklearn, Matplotlib
+
+**Project Objective:**In this project I worked with real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe to a term deposit.**
+
+
+**Quantifiable result:** We could classify whether a Person Intrested to buy term deposit or not with **98%** accuracy.
+
+- Using Logistic Regression to Predict the behaviour of Clients
